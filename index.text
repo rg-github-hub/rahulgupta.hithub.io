@@ -1,0 +1,12 @@
+-home
+    -frame1(style_1.css)
+    -frame2(style_2.css)
+        -c1
+        -c2
+        -c3
+    -frame3
+    -header(style_header.css)
+        -h1
+        -h2
+        -h3
+        -h4
